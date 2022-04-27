@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "chart.js": "^2.7.3",
-    "grunt": "^1.0.3",
+    "grunt": "^1.5.2",
     "grunt-assemble": "^0.6.3",
     "grunt-contrib-compass": "^1.1.1",
     "grunt-contrib-watch": "^1.1.0",
